@@ -4,7 +4,7 @@
 >
 > 작은 기능도 직접 만들고, 부딪힌 내용을 문서로 남기며 성장하고 있습니다.
 >
-> Django와 Vue를 중심으로 웹 서비스를 구현하고, AI API와 데이터 분석을 서비스에 녹이는 개발자가 되고자 합니다.
+> Django와 Vue를 중심으로 웹 서비스를 구현하고, API·데이터 분석·AI를 실제 사용자 경험에 연결하는 개발자가 되고자 합니다.
 >
 > [TIL](https://github.com/j-moo/TIL) · [GitHub](https://github.com/j-moo)
 
@@ -17,7 +17,7 @@
 ```
 
 Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들고 있습니다.  
-프로젝트를 진행하며 인증, REST API, 프론트엔드 라우팅, 데이터 시각화, AI 모델 서버 연동을 경험했습니다.  
+프로젝트와 TIL을 통해 REST API, JWT 인증, 데이터 전처리·시각화, AI 모델 서버 연동을 학습하고 구현했습니다.
 이 프로필은 2026년 1월부터 진행한 학습 기록과 프로젝트를 중심으로 정리했습니다.
 
 ---
@@ -59,6 +59,7 @@ Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들
           <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
           <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
           <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+          <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
           <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white">
         </p>
         <p>⚙️ Tools</p>
@@ -113,7 +114,7 @@ AI & API      ████████████████
 
 | 프로젝트 | 설명 | 기술 스택 |
 |---------|------|---------|
-| **[TIL](https://github.com/j-moo/TIL)** ⭐ | Python, Algorithm, Django, Vue, AI 학습 기록 저장소 | Markdown, Python, Django, Vue |
+| **[TIL](https://github.com/j-moo/TIL)** ⭐ | 109개의 Python, Algorithm, Web, Django, Vue, Data, AI 학습 노트 | Markdown, Python, Django, Vue |
 | **[codetree](https://github.com/j-moo/codetree)** | 알고리즘 문제 풀이 기록 | Python |
 | **AI Proxy Project** | Django Proxy Server와 FastAPI Model Server를 분리해 AI 응답, Guardrail, 이미지 생성, TTS를 처리 | Django, FastAPI, OpenAI API |
 | **YouTube Learning SPA** | YouTube Data API v3 기반 영상 검색, 상세 조회, 저장, 채널 관리 서비스 | Vue, Vite, LocalStorage |
@@ -150,7 +151,8 @@ AI & API      ████████████████
 
 - 🏆 **꾸준한 학습 기록**: Python, Algorithm, Django, Vue, AI 학습 내용을 TIL로 정리
 - 🎯 **서비스형 프로젝트 경험**: 소비 기록, 영화 커뮤니티, 영상 검색, 데이터 대시보드 구현
-- 📊 **데이터 기반 구현**: JSON, JSONL, 외부 API, ECharts를 활용한 데이터 처리와 시각화 경험
+- 📊 **데이터 분석 파이프라인**: API·JSON 수집부터 NumPy·Pandas 전처리, 집계, Matplotlib 시각화까지 학습
+- 🔐 **인증 흐름 구현**: Django REST Framework와 Vue 환경에서 JWT 기반 사용자 인증 학습
 - 🤖 **AI 서비스 구조 경험**: Django Proxy와 FastAPI Model Server를 나누어 AI API 호출 흐름 설계
 - 🧩 **전체 흐름 이해**: 요구사항 분석부터 데이터 설계, API 연동, 화면 구현까지 직접 수행
 
@@ -160,10 +162,10 @@ AI & API      ████████████████
 
 ```text
 📚 Backend          📱 Frontend       🗄️ Data/API        🤖 AI
-├─ Python           ├─ HTML/CSS       ├─ SQL             ├─ OpenAI API
-├─ Django           ├─ JavaScript     ├─ JSON / JSONL    ├─ Guardrail
-├─ DRF              ├─ Vue.js         ├─ ECharts         ├─ TTS
-└─ Auth / CRUD      └─ Vue Router     └─ External API    └─ Image Generation
+├─ Python           ├─ HTML/CSS       ├─ REST / JSON     ├─ OpenAI API
+├─ Django / DRF     ├─ JavaScript     ├─ NumPy / Pandas  ├─ Guardrail
+├─ FastAPI          ├─ Vue / Pinia    ├─ Matplotlib      ├─ TTS
+└─ Auth / JWT       └─ Vue Router     └─ SQL / ECharts   └─ Image Generation
 ```
 
 ---
@@ -201,6 +203,6 @@ AI & API      ████████████████
 
 ### 🌟 꾸준히 만들고, 배우고, 기록합니다.
 
-**마지막 업데이트: 2026년 6월 22일**
+**마지막 업데이트: 2026년 7월 3일**
 
 </div>
