@@ -4,7 +4,9 @@
 >
 > 작은 기능도 직접 만들고, 부딪힌 내용을 문서로 남기며 성장하고 있습니다.
 >
-> Django와 Vue를 중심으로 웹 서비스를 구현하고, API·데이터 분석·AI를 실제 사용자 경험에 연결하는 개발자가 되고자 합니다.
+> Django·Vue를 기반으로 웹 서비스를 구현하고, React·TypeScript·Java까지 넓혀가는 Full-Stack Developer
+>
+> API·데이터 분석·AI를 실제 사용자 경험에 연결하는 개발자가 되고자 합니다.
 >
 > [TIL](https://github.com/j-moo/TIL) · [GitHub](https://github.com/j-moo)
 
@@ -17,6 +19,7 @@
 ```
 
 Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들고 있습니다.  
+최근에는 React와 TypeScript의 컴포넌트·타입·상태 관리 흐름을 익히고, Java의 객체지향·컬렉션·예외 처리까지 학습 범위를 넓혔습니다.
 프로젝트와 TIL을 통해 REST API, JWT 인증, 데이터 전처리·시각화, AI 모델 서버 연동을 학습하고 구현했습니다.
 이 프로필은 2026년 1월부터 진행한 학습 기록과 프로젝트를 중심으로 정리했습니다.
 
@@ -38,6 +41,8 @@ Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
           <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
           <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
         </p>
@@ -50,6 +55,7 @@ Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들
         <p>🎨 Frontend</p>
         <p>
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
           <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -114,7 +120,7 @@ AI & API      ████████████████
 
 | 프로젝트 | 설명 | 기술 스택 |
 |---------|------|---------|
-| **[TIL](https://github.com/j-moo/TIL)** ⭐ | 109개의 Python, Algorithm, Web, Django, Vue, Data, AI 학습 노트 | Markdown, Python, Django, Vue |
+| **[TIL](https://github.com/j-moo/TIL)** ⭐ | 155개의 Python, Java, TypeScript, React, Django, Vue, Data, AI 학습 노트 | Markdown, Python, Java, TypeScript, React |
 | **[codetree](https://github.com/j-moo/codetree)** | 알고리즘 문제 풀이 기록 | Python |
 | **AI Proxy Project** | Django Proxy Server와 FastAPI Model Server를 분리해 AI 응답, Guardrail, 이미지 생성, TTS를 처리 | Django, FastAPI, OpenAI API |
 | **YouTube Learning SPA** | YouTube Data API v3 기반 영상 검색, 상세 조회, 저장, 채널 관리 서비스 | Vue, Vite, LocalStorage |
@@ -149,7 +155,10 @@ AI & API      ████████████████
 
 ### ✅ 주요 성과
 
-- 🏆 **꾸준한 학습 기록**: Python, Algorithm, Django, Vue, AI 학습 내용을 TIL로 정리
+- 🏆 **꾸준한 학습 기록**: TIL을 109개에서 155개 노트로 확장하며 학습 흐름을 지속적으로 기록
+- ⚛️ **React 학습 확장**: 컴포넌트, JSX, props, state, Hook, Context, 데이터 패칭, 테스트까지 학습
+- ☕ **Java 기초 강화**: 객체지향, 상속·인터페이스, 예외 처리, 컬렉션, 함수형 프로그래밍을 학습
+- 🔷 **TypeScript 도입**: 타입 기초부터 함수·객체·제네릭·고급 타입·클래스·모듈까지 정리
 - 🎯 **서비스형 프로젝트 경험**: 소비 기록, 영화 커뮤니티, 영상 검색, 데이터 대시보드 구현
 - 📊 **데이터 분석 파이프라인**: API·JSON 수집부터 NumPy·Pandas 전처리, 집계, Matplotlib 시각화까지 학습
 - 🔐 **인증 흐름 구현**: Django REST Framework와 Vue 환경에서 JWT 기반 사용자 인증 학습
@@ -162,10 +171,11 @@ AI & API      ████████████████
 
 ```text
 📚 Backend          📱 Frontend       🗄️ Data/API        🤖 AI
-├─ Python           ├─ HTML/CSS       ├─ REST / JSON     ├─ OpenAI API
+├─ Python / Java    ├─ HTML/CSS       ├─ REST / JSON     ├─ OpenAI API
 ├─ Django / DRF     ├─ JavaScript     ├─ NumPy / Pandas  ├─ Guardrail
 ├─ FastAPI          ├─ Vue / Pinia    ├─ Matplotlib      ├─ TTS
-└─ Auth / JWT       └─ Vue Router     └─ SQL / ECharts   └─ Image Generation
+└─ Auth / JWT       ├─ React          └─ SQL / ECharts   └─ Image Generation
+                    └─ TypeScript
 ```
 
 ---
@@ -203,6 +213,6 @@ AI & API      ████████████████
 
 ### 🌟 꾸준히 만들고, 배우고, 기록합니다.
 
-**마지막 업데이트: 2026년 7월 3일**
+**마지막 업데이트: 2026년 8월 2일**
 
 </div>
