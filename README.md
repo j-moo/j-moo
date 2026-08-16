@@ -1,10 +1,10 @@
 # 👋 김종무 (j-moo)
 
-> 🚀 Full-Stack Developer | AI Service Builder | 꾸준히 기록하는 학습자
+> 🚀 Frontend Developer | Full-Stack Learner | 꾸준히 기록하는 학습자
 >
 > 작은 기능도 직접 만들고, 부딪힌 내용을 문서로 남기며 성장하고 있습니다.
 >
-> Django·Vue를 기반으로 웹 서비스를 구현하고, React·TypeScript·Java까지 넓혀가는 Full-Stack Developer
+> Django·Vue 기반의 웹 개발 경험에서 출발해 React·TypeScript 중심의 프론트엔드 역량을 넓혀가고 있습니다.
 >
 > API·데이터 분석·AI를 실제 사용자 경험에 연결하는 개발자가 되고자 합니다.
 >
@@ -15,13 +15,13 @@
 ## 🎯 About Me
 
 ```text
-🎓 SSAFY 15기 학습 중 | 💻 Django / Vue 기반 Full-Stack | 🌱 TIL로 성장 기록
+🎓 SSAFY 15기 학습 중 | 💻 React / TypeScript Frontend | 🌱 TIL로 성장 기록
 ```
 
-Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들고 있습니다.  
-최근에는 React와 TypeScript의 컴포넌트·타입·상태 관리 흐름을 익히고, Java의 객체지향·컬렉션·예외 처리까지 학습 범위를 넓혔습니다.
-프로젝트와 TIL을 통해 REST API, JWT 인증, 데이터 전처리·시각화, AI 모델 서버 연동을 학습하고 구현했습니다.
-이 프로필은 2026년 1월부터 진행한 학습 기록과 프로젝트를 중심으로 정리했습니다.
+Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들며 전체 서비스 흐름을 익혔습니다.  
+최근에는 **Melly 프로젝트에서 프론트엔드 개발을 담당**했고, React와 TypeScript를 중심으로 사용자에게 보이는 화면과 상호작용을 구현하는 경험을 쌓고 있습니다.  
+TIL에서는 React 컴포넌트·상태 관리·라우팅·테스트뿐 아니라 Firebase 인증과 보안 규칙, 웹 접근성, 브라우저 보안, GitHub Actions 기반 CI까지 학습 범위를 확장했습니다.  
+프로젝트와 학습 기록을 연결하며, 동작하는 코드를 넘어 사용하기 쉽고 안전한 웹 서비스를 만드는 개발자로 성장하고 있습니다.
 
 ---
 
@@ -57,6 +57,7 @@ Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
           <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+          <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         </p>
@@ -72,6 +73,7 @@ Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들
         <p>
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
         </p>
@@ -83,6 +85,16 @@ Python, Django, JavaScript, Vue를 기반으로 웹 애플리케이션을 만들
 ---
 
 ## 🎨 Featured Projects
+
+### 🌱 **Melly** - 프론트엔드 개발
+
+| 항목 | 내용 |
+|------|------|
+| 💻 **역할** | 프론트엔드 개발 담당 |
+| 🎯 **경험** | 학습한 React·TypeScript 지식을 팀 프로젝트의 실제 화면 개발 경험으로 연결 |
+| 🌱 **성장 방향** | 사용자 흐름, 컴포넌트 책임, 타입 안전성을 함께 고려하는 프론트엔드 개발 |
+
+---
 
 ### ⭐ **Flex_Log** - 소비 기록 기반 AI 금융 습관 서비스
 
@@ -120,7 +132,7 @@ AI & API      ████████████████
 
 | 프로젝트 | 설명 | 기술 스택 |
 |---------|------|---------|
-| **[TIL](https://github.com/j-moo/TIL)** ⭐ | 155개의 Python, Java, TypeScript, React, Django, Vue, Data, AI 학습 노트 | Markdown, Python, Java, TypeScript, React |
+| **[TIL](https://github.com/j-moo/TIL)** ⭐ | 179개의 웹 개발·프로그래밍·데이터·AI 학습 노트 | Markdown, Python, Java, TypeScript, React |
 | **[codetree](https://github.com/j-moo/codetree)** | 알고리즘 문제 풀이 기록 | Python |
 | **AI Proxy Project** | Django Proxy Server와 FastAPI Model Server를 분리해 AI 응답, Guardrail, 이미지 생성, TTS를 처리 | Django, FastAPI, OpenAI API |
 | **YouTube Learning SPA** | YouTube Data API v3 기반 영상 검색, 상세 조회, 저장, 채널 관리 서비스 | Vue, Vite, LocalStorage |
@@ -155,14 +167,18 @@ AI & API      ████████████████
 
 ### ✅ 주요 성과
 
-- 🏆 **꾸준한 학습 기록**: TIL을 109개에서 155개 노트로 확장하며 학습 흐름을 지속적으로 기록
-- ⚛️ **React 학습 확장**: 컴포넌트, JSX, props, state, Hook, Context, 데이터 패칭, 테스트까지 학습
+- 🏆 **꾸준한 학습 기록**: 총 179개의 TIL 노트로 학습 흐름과 시행착오를 지속적으로 기록
+- ⚛️ **React 학습 확장**: 컴포넌트·Hook·라우팅·상태 관리·CRUD·테스트·오류 복구를 TypeScript 기준으로 학습
 - ☕ **Java 기초 강화**: 객체지향, 상속·인터페이스, 예외 처리, 컬렉션, 함수형 프로그래밍을 학습
-- 🔷 **TypeScript 도입**: 타입 기초부터 함수·객체·제네릭·고급 타입·클래스·모듈까지 정리
+- 🔷 **TypeScript 도입**: 타입 기초부터 제네릭·고급 타입·모듈·선언 파일·타입 오류 해석까지 정리
+- 🎨 **Melly 프론트엔드 경험**: 학습한 React·TypeScript 지식을 실제 팀 프로젝트 개발로 확장
 - 🎯 **서비스형 프로젝트 경험**: 소비 기록, 영화 커뮤니티, 영상 검색, 데이터 대시보드 구현
 - 📊 **데이터 분석 파이프라인**: API·JSON 수집부터 NumPy·Pandas 전처리, 집계, Matplotlib 시각화까지 학습
 - 🔐 **인증 흐름 구현**: Django REST Framework와 Vue 환경에서 JWT 기반 사용자 인증 학습
 - 🤖 **AI 서비스 구조 경험**: Django Proxy와 FastAPI Model Server를 나누어 AI API 호출 흐름 설계
+- ♿ **사용자 중심 UI 학습**: 시맨틱 HTML, 키보드·focus, ARIA를 활용한 웹 접근성 학습
+- 🔐 **안전한 웹 구조 학습**: Firebase Security Rules와 SOP·CORS·XSS·CSRF 등 브라우저 보안 경계 정리
+- ⚙️ **자동 검증 경험**: GitHub Actions로 TypeScript·React·Firebase 검증 흐름 학습
 - 🧩 **전체 흐름 이해**: 요구사항 분석부터 데이터 설계, API 연동, 화면 구현까지 직접 수행
 
 ---
@@ -174,8 +190,9 @@ AI & API      ████████████████
 ├─ Python / Java    ├─ HTML/CSS       ├─ REST / JSON     ├─ OpenAI API
 ├─ Django / DRF     ├─ JavaScript     ├─ NumPy / Pandas  ├─ Guardrail
 ├─ FastAPI          ├─ Vue / Pinia    ├─ Matplotlib      ├─ TTS
-└─ Auth / JWT       ├─ React          └─ SQL / ECharts   └─ Image Generation
-                    └─ TypeScript
+└─ Auth / JWT       ├─ React          ├─ SQL / ECharts   └─ Image Generation
+                    ├─ TypeScript     └─ Firebase
+                    └─ Accessibility / Testing
 ```
 
 ---
@@ -213,6 +230,6 @@ AI & API      ████████████████
 
 ### 🌟 꾸준히 만들고, 배우고, 기록합니다.
 
-**마지막 업데이트: 2026년 8월 2일**
+**마지막 업데이트: 2026년 8월 16일**
 
 </div>
